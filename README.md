@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Srivadhsan
-- 👀 I’m interested in predictive,machine learning,cloud computing 
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on projects in any topic
-- 📫 How to reach me...just mail me or call me:6374416919
+Develop a flexible and robust churn prediction system that works across multiple datasets. You
+will build a predictive model, create an API for predictions, and incorporate explainability
+techniques. The challenge is to create a general solution that handles multiple datasets and
+provides insights into how your model makes decisions.
+This is not just a typical Kaggle-style exercise; the focus is on building a real-world, scalable
+machine learning pipeline that can be deployed and extended for various churn datasets
 
-<!---
-Srivadhsan/Srivadhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Churn prediction is a widely-used machine learning problem where the goal is to predict
+whether a customer will leave or stop using a product/service. In this assignment, you will
+design a system that can handle different customer datasets from various businesses.
